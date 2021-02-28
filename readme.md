@@ -6,7 +6,7 @@
 
 ## Comparison
 
-![Comparison image](https://github.com/qvanphong/medium-font-changer/blob/[branch]/image.jpg?raw=true)
+![Comparison image](https://raw.githubusercontent.com/qvanphong/medium-font-changer/main/static/compare.png)
 
 ## Prerequisites
 
