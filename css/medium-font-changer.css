@@ -1,0 +1,13 @@
+body {
+  min-width: 278px;
+}
+
+.container {
+  padding-top: var(--bs-gutter-x, 0.75rem);
+  padding-bottom: var(--bs-gutter-x, 0.75rem);
+}
+
+#medium-icon {
+  height: 36px;
+  margin-right: 8px;
+}
