@@ -4,6 +4,8 @@
 
 > Change the eyes hurt Vietnamese font or if you want your custom font on Medium.com
 
+![lol...](https://raw.githubusercontent.com/qvanphong/medium-font-changer/main/static/myeyes.jpg)
+
 ## Comparison
 
 ![Comparison image](https://raw.githubusercontent.com/qvanphong/medium-font-changer/main/static/compare.png)
